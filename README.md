@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/tom2" alt="onedrive-cf-index-ng" />
+  <img src="./public/tom1" alt="onedrive-cf-index-ng" />
   <h3><a href="https://pan.lyc8503.net">Tommie's File Host</a></h3>
   <p><em>OneDrive public directory listing forked from <a href="https://github.com/spencerwooo/onedrive-vercel-index">onedrive-vercel-index</a>, powered by Cloudflare and Next.js</em></p>
 
