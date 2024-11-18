@@ -27,20 +27,6 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 - Takes less than 15 minutes to setup ⏱️
 - Highly customisable ⚒️
 
-🍌 More importantly, we are pretty (●'◡'●)
-
-## Quick start
-
-🚀 Quick start: [Getting started](https://github.com/lyc8503/onedrive-cf-index-ng/wiki/Getting-Started).
-
-*If you happen to like this project, please give it a star!* :3
-
-## Demo
-
-Live demo at [lyc8503's Fileshare](https://pan.lyc8503.net).
-
-![demo](./public/demo.png)
-
 ## Features
 
 <table>
@@ -145,7 +131,7 @@ Yes! Completely free with no backend server what-so-ever.
 
 <div align="center">
   <img src="./public/footer.png" />
-  <em>made with ❤️ by <a href="https://lyc8503.net">lyc8503</a> & <a href="https://spencerwoo.com">spencer woo</a></em>
+  <em>made by <a href="https://lyc8503.net">lyc8503</a> & <a href="https://spencerwoo.com">spencer woo</a></em>
 </div>
 
 
